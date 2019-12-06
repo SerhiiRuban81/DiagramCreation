@@ -26,5 +26,10 @@ namespace Diagrams
         {
             MessageBox.Show("Second btn!");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is btn for test");
+        }
     }
 }
