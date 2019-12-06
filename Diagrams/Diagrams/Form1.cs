@@ -21,5 +21,10 @@ namespace Diagrams
         {
             MessageBox.Show("Hello git!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Second btn!");
+        }
     }
 }
