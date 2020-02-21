@@ -1,2 +1,2 @@
 # DiagramCreation
-Программа для построения диаграмм на Windows Forms
+Демонстрация студентам основ работы с git и github
